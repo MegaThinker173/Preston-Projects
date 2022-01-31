@@ -9,7 +9,7 @@ public class Main {
         int resultNumber = (int) (Math.random() * 999 + 1);
 
         while (true) {
-            System.out.println(totalCount+"/5");
+            System.out.println(totalCount+"/9");
             System.out.print("Enter a number between 1 to 1000. You have 9 tries. \n");
             userInputNumber = inputScanner.nextInt();
 
